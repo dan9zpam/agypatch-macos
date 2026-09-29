@@ -1,5 +1,7 @@
 # Open Antigravity Patcher (macOS Installer) 🍏
 
+*Данный проект сделан на основе оригинального репозитория: [AvenCores-open-antigravity-patcher](https://github.com/trustybird/AvenCores-open-antigravity-patcher)*
+
 Опенсорс патчер для Antigravity 2.0, Antigravity IDE, Antigravity CLI и расширения Google Antigravity для VS Code: снимает регионные ограничения без VPN и смены региона аккаунта Google. 
 
 > **Важно:** Этот проект — автоматизированный лаунчер для оригинального [Open Antigravity Patcher](https://github.com/trustybird/AvenCores-open-antigravity-patcher), специально адаптированный для пользователей Mac.
